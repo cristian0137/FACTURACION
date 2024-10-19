@@ -1,0 +1,5 @@
+Codigo,Descripcion,Cantidad,Costo,Descuento,Precio
+1,Iphone 12,20,800.0,50.0,1000.0
+2,SANSUMG S24,20,1200.0,50.0,1500.0
+3,SANSUMG S24,20,1200.0,50.0,1500.0
+4,SANSUMG S24,20,1200.0,50.0,1500.0
